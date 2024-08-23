@@ -1,2 +1,7 @@
-# Redis-StudyNotes-
-Redis
+# Redis-StudyNotes
+[队列(1)](./队列(1).md)
+
+[秒杀(1)](./秒杀(1).md)
+
+[雪崩、击穿、穿透](./雪崩、击穿、穿透.md) 
+
